@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="V1_Classification">
-      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_production.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_unit_comitment.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Max/Assignment_02_sample_gen_1311.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Max/Assignment_02_sample_gen_1311.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/Assignment_02.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,11 +67,11 @@
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Feli" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Feli" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\Data" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\New Data\2022" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\New Data\2021" />
-      <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\New Data" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,6 +97,10 @@
       <workItem from="1731150317788" duration="14840000" />
       <workItem from="1731345400393" duration="7886000" />
       <workItem from="1731503701576" duration="5187000" />
+      <workItem from="1731510064189" duration="1955000" />
+      <workItem from="1731580331280" duration="1627000" />
+      <workItem from="1731582986154" duration="135000" />
+      <workItem from="1731583133607" duration="5413000" />
     </task>
     <task id="LOCAL-00001" summary="5.5">
       <option name="closed" value="true" />
@@ -128,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731503725960</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="V1_Classification">
+      <option name="closed" value="true" />
+      <created>1731509923403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731509923403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
