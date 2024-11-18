@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="V1_Classification">
-      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_production.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_unit_comitment.csv" afterDir="false" />
+    <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="Clean version classification">
+      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Max/Assignment_02_sample_gen_1311.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Max/Assignment_02_sample_gen_1311.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/Assignment_02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_production.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_production.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_unit_comitment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/results_unit_comitment.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Sacko/Assignment_02_Sacko.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Sacko/Assignment_02_Sacko.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +101,10 @@
       <workItem from="1731580331280" duration="1627000" />
       <workItem from="1731582986154" duration="135000" />
       <workItem from="1731583133607" duration="5413000" />
+      <workItem from="1731604849397" duration="3593000" />
+      <workItem from="1731750560463" duration="13329000" />
+      <workItem from="1731927919887" duration="944000" />
+      <workItem from="1731928898236" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="5.5">
       <option name="closed" value="true" />
@@ -150,7 +154,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731509923403</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="V1_Classification">
+      <option name="closed" value="true" />
+      <created>1731604885205</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731604885205</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clean version classification">
+      <option name="closed" value="true" />
+      <created>1731850462096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850462096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Clean version classification">
+      <option name="closed" value="true" />
+      <created>1731850494560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850494560</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5.5" />
     <MESSAGE value="V1_Classification" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1_Classification" />
+    <MESSAGE value="Clean version classification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean version classification" />
   </component>
 </project>
