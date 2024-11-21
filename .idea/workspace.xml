@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="Classificaiton new data">
+    <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="CSV">
+      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_Feli_Mulit.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FELI_V4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_FinalVersion_Feli.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_2_FELI_WOOpt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +101,8 @@
       <workItem from="1731750560463" duration="13329000" />
       <workItem from="1731927919887" duration="944000" />
       <workItem from="1731928898236" duration="7909000" />
+      <workItem from="1732224873675" duration="1121000" />
+      <workItem from="1732226019510" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="5.5">
       <option name="closed" value="true" />
@@ -190,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731949525857</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1732218960779</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732218960779</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +222,7 @@
     <MESSAGE value="V1_Classification" />
     <MESSAGE value="Clean version classification" />
     <MESSAGE value="Classificaiton new data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classificaiton new data" />
+    <MESSAGE value="CSV" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV" />
   </component>
 </project>
