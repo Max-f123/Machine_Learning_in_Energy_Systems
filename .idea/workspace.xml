@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="CSV">
-      <change afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02_Feli_Mulit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 02/Assignment_02 Final.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 Simon.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Simon/Assignment_02 Simon.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 Simon2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 copy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02 copy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G2_logistic_predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G2_svm_predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G3_logistic_predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G3_svm_predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_test_MC.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val_four_class.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val_svm_rbf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_four_class.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_logreg.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_svm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_svm_rbf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val_four_class.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val_svm_rbf.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +87,11 @@
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Feli" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Simon" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Feli" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\Data" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02" />
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\New Data\2022" />
-      <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\New Data\2021" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -102,7 +126,8 @@
       <workItem from="1731927919887" duration="944000" />
       <workItem from="1731928898236" duration="7909000" />
       <workItem from="1732224873675" duration="1121000" />
-      <workItem from="1732226019510" duration="467000" />
+      <workItem from="1732226019510" duration="11452000" />
+      <workItem from="1732346746968" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="5.5">
       <option name="closed" value="true" />
@@ -200,7 +225,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732218960779</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1732226575255</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732226575255</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1732227556529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732227556529</updated>
+    </task>
+    <task id="LOCAL-00015" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1732227575874</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732227575874</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
