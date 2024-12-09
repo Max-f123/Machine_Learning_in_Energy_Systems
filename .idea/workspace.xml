@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="CSV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733740947277</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1733749394351</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733749394351</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
