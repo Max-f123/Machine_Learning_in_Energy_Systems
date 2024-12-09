@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="CSV">
-      <change afterPath="$PROJECT_DIR$/Assignment 02/Assignment_02 Final.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 Simon.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Simon/Assignment_02 Simon.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 Simon2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Assignment_02 copy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 02/02 - Feli/Assignment_02 copy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G2_logistic_predictions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G2_svm_predictions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G3_logistic_predictions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/G3_svm_predictions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_test_MC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val_four_class.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/X_val_svm_rbf.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_four_class.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_logreg.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_svm.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_pred_svm_rbf.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val_four_class.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 02/Data/y_val_svm_rbf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +35,9 @@
     &quot;accountId&quot;: &quot;bb148fdb-0a18-45bb-bbff-44c8b21c2574&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
