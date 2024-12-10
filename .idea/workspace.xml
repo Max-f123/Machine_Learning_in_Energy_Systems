@@ -7,6 +7,9 @@
     <list default="true" id="67120ec0-18cf-4e55-93a7-e3af1c7cbce1" name="Changes" comment="CSV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 03/Assignment_03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Assignment_03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Feli/Assignment_03_FELI.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 03/Konsti/BatteryOptimization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Konsti/BatteryOptimization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 03/Konsti/DataHandling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Konsti/DataHandling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 03/Sacko1/Assignment_03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 03/Sacko1/Assignment_03.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/felic/OneDrive/Dokumente/GitHub/EnergySystem/Assignment 02/02 - Feli&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/felic/OneDrive/Dokumente/GitHub/EnergySystem/Assignment 03/Graphs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\felic\OneDrive\Dokumente\GitHub\EnergySystem\Assignment 02\02 - Feli" />
@@ -107,6 +110,7 @@
       <workItem from="1732224873675" duration="1121000" />
       <workItem from="1732226019510" duration="11452000" />
       <workItem from="1732346746968" duration="404000" />
+      <workItem from="1733865080335" duration="7550000" />
     </task>
     <task id="LOCAL-00001" summary="5.5">
       <option name="closed" value="true" />
